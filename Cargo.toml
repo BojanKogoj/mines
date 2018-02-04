@@ -1,0 +1,9 @@
+[package]
+name = "minesweeper-gui"
+version = "0.1.0"
+authors = ["Bojan <bojan.kogoj@gmail.com>"]
+
+[dependencies]
+orbclient = "0.3"
+orbtk = { git = "https://github.com/redox-os/orbtk", rev = "eb9be0ccfca7d30b681b3bdb82a36e4684babb19" }
+rand = "0.3"

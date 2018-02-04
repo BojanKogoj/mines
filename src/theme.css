@@ -1,0 +1,13 @@
+
+label.revealed {
+    background: #f3f3f3;
+    border-width: 1;
+}
+
+label.revealed.mine {
+    background: #ff0000;
+}
+
+label.mines-left {
+    background: #88cccc;
+}
