@@ -2,7 +2,7 @@
 
 ![mines screenshot](res/screenshot.png "Mines screenshot")
 
-Compatible with [Redox](https://github.com/redox-os) and SDL2 platforms.
+Compatible with [Redox OS](https://github.com/redox-os/redox) and SDL2 platforms.
 
 You can play the game in 9x9 field with 10 mines, however there are missing features. To be done:
 
