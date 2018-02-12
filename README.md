@@ -14,3 +14,19 @@ You can play the game in 9x9 field with 10 mines, however there are missing feat
 - [ ] Implement larger fields
 - [ ] Make prettier UI
 - [ ] Add shared scores
+
+
+## How to use it
+
+### Get SDL2
+
+Follow the [SDL2 instructions](https://github.com/Rust-SDL2/rust-sdl2).
+
+In my case it didn't work on Windows that way, I had to copy files from `SDL2-devel-2.0.x-VC.zip` to
+`C:\Users\<user>\.rustup\toolchains\nightly-x86_64-pc-windows-msvc\lib\rustlib\x86_64-pc-windows-msvc\lib`
+
+### Run
+
+```
+cargo run
+```
