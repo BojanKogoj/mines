@@ -4,6 +4,34 @@ label.revealed {
     border-width: 1;
 }
 
+label.revealed.number-1 {
+    color: #0000ff;
+}
+
+label.revealed.number-2 {
+    color: #008200;
+}
+
+label.revealed.number-3 {
+    color: #ff0000;
+}
+
+label.revealed.number-5 {
+    color: #840000;
+}
+
+label.revealed.number-6 {
+    color: #008284;
+}
+
+label.revealed.number-7 {
+    color: #840084;
+}
+
+label.revealed.number-8 {
+    color: #757575;
+}
+
 label.revealed.mine {
     background: #ff0000;
 }

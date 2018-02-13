@@ -109,7 +109,8 @@ impl Mines {
                     match cell.neighbours {
                         0 => {},
                         num => {
-                            label.text(format!("{}", num));
+                            label.text(format!("{}", num))
+                                .with_class(format!("number-{}", num));
                         }
                     }
 
